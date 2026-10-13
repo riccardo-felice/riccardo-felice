@@ -12,6 +12,7 @@ Master's Degree in Bioengineering, University of Padova. Biomedical signal proce
 | [Glucose trend and daily cycle](glucose-trend-decomposition/) | Separation of monthly trend and daily cycle in self-monitored glucose data. MATLAB + report (in Italian). |
 | [CGM artifact detection](cgm-artifact-detection/) | Detection of compression artifacts in CGM traces with an AR model and recursive least squares. MATLAB + report (in Italian). |
 | [EDA Stress App](eda-stress-app/) | Team project: mobile app estimating physical and mental stress from heart rate, EDA and sleep. Presentation only, source code not public. |
+| [Da Vinci inverse kinematics](davinci-inverse-kinematics/) | Group project (3 people), Medical Robotics course: kinematics and inverse kinematics of a single Da Vinci arm and a RoboCouch patient table, with a MATLAB simulation of tool insertion towards a target point. Slides (in Italian) and simulation video. |
 
 ## Notes
 
